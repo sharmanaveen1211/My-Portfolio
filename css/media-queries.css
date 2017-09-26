@@ -191,10 +191,10 @@
       padding-bottom: 12px;
       padding-top: 6px;
    }
-   header .banner-text h1 { font: 55px/1.1em 'opensans-bold', sans-serif; }
+   header .banner-text h1 { font: 50px/1.1em 'opensans-bold', sans-serif; }
    header .banner-text h3 {
-      font: 10px/1.9em 'librebaskerville-regular', serif;
-      width: 85%;
+      font: 9px/1.9em 'librebaskerville-regular', serif;
+      width: 80%;
    }
    header .banner-text hr {
       width: 80%;
