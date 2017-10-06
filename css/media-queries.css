@@ -355,12 +355,12 @@
       margin: 0 auto 15px auto;
    }
    header .banner-text h3 {
-      font: 10px/1.9em 'librebaskerville-regular', sans-serif;
+      font: 20px/1.9em 'librebaskerville-regular', sans-serif;
       width: 70%;
    }
   
    /* header social links */
-   header .social { font-size: 17px;}
+   header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
 
    /* footer
